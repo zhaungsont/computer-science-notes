@@ -34,4 +34,4 @@
 ![[min_binary_heap.png]]
 
 ## Operations on Binary Heap
-[[Algo - Storing Heaps]]
+[[Algo - Heap Operation]]
