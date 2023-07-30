@@ -203,3 +203,6 @@ reverse() {
 ```
 
 ![[reverse linked list.gif]]
+
+## See Also
+- [[DS - Doubly Linked Lists]]

@@ -26,3 +26,7 @@ Binary search trees are used for data sorting, usually in numbers.
 ![[BSTSearch.png]]
 
 
+## Operations on Binary Search Trees
+- [[DS - Binary Search Tree]]
+- [[DS - Binary Heaps]]
+- [[Algo - Tree Traversal]]
