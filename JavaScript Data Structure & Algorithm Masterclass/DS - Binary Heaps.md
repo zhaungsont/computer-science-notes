@@ -34,4 +34,5 @@
 ![[min_binary_heap.png]]
 
 ## Operations on Binary Heap
-[[Algo - Heap Operation]]
+- [[Algo - Heap Operation]]
+- [[Algo - Priority Queue]]
